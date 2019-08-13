@@ -62,4 +62,4 @@ Example: `new Carousel(element, {delay: 2000}).start()`.
 
 ### License
 
-This package is available as open source under the terms of the MIT License.
+This package is available as open source under the terms of the [MIT License](https://github.com/sealink/super-simple-carousel/blob/master/LICENSE).
