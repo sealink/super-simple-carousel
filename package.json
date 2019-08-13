@@ -1,0 +1,15 @@
+{
+  "name": "@sealink/super-simple-carousel",
+  "version": "0.1.0",
+  "description": "A super simple, JS carousel.",
+  "main": "lib/js/carousel.js",
+  "author": "Darren Waring",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sealink/super-simple-carousel.git"
+  },
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
+}
