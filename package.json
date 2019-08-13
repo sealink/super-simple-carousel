@@ -1,6 +1,6 @@
 {
-  "name": "@sealink/super-simple-carousel",
-  "version": "0.1.0",
+  "name": "super-simple-carousel",
+  "version": "1.0.0",
   "description": "A super simple, JS carousel.",
   "main": "lib/js/carousel.js",
   "author": "Darren Waring",
